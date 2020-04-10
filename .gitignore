@@ -30,8 +30,8 @@ hs_err_pid*
 target/*
 
 
-### VisualStudioCode ###
-.vscode/*
+### Idea Code###
+.idea
 
 
 ### Settings ###
